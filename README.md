@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Ram0O7
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Javascript developement
-- 📫 How to reach me email: ram706860@gmail.com
+# Ramkrishn Rai
 
-<!---
-Ram0O7/Ram0O7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+Hello! I'm Ramkrishn Rai, a passionate web developer with experience in Next.js, Tailwind CSS, MongoDB, Redis, Sanity.io, and Express. I love building innovative web applications and constantly learning new technologies.
+
+## Skills
+
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, Redis
+- **Content Management:** Sanity.io
+- **Other:** Git, Postman
+### Currently Learning
+- PHP, MySQL and WordPress Development
+
+## Contact
+
+- **Email:** [ram706860@gmail.com](ram706860@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ramkrishn-rai](https://linkedin.com/in/ramkrishn-rai)
+- **Website:** [ramkrishnrai.vercel.app](https://ramkrishnrai.vercel.app/)
